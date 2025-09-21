@@ -13,7 +13,7 @@ section {
     align-items: center;
     width: 100%;
     height: 100vh;
-    background: url('iMages/bgLogIn.jpg') no-repeat;
+    background: url('bgLogIn.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     animation: animateBg 15s linear infinite;
